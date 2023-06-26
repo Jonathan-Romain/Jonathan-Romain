@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A full stack developer from Texas</h3>
 
-![Snake animation](https://github.com/Jonathan-Romain/Jonathan-Romain/blob/output/github-contribution-grid-snake.svg)
+![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 
 
 <h3 align="left">Connect with me:</h3>
