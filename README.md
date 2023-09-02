@@ -15,9 +15,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-romain&show_icons=true&locale=en&layout=compact" alt="jonathan-romain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-romain&show_icons=true&locale=en" alt="jonathan-romain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathan-romain&show_icons=true&locale=en" alt="jonathan-romain" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-romain&" alt="jonathan-romain" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-romain&" alt="jonathan-romain" /></p></br>
 
 <p align="left"> <a href="https://twitter.com/j__ro0" target="blank"><img src="https://img.shields.io/twitter/follow/j__ro0?logo=twitter&style=for-the-badge" alt="j__ro0" /></a> </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathan-romain&label=Profile%20views&color=0e75b6&style=flat" alt="jonathan-romain" /> </p> -->
