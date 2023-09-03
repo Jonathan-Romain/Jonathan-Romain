@@ -15,7 +15,7 @@
 
 <p><img align="left" float="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-romain&show_icons=true&locale=en&layout=compact" alt="jonathan-romain" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathan-romain&show_icons=true&locale=en" alt="jonathan-romain" /></p>
+<p>&nbsp;<img align="left" padding-top="300px" src="https://github-readme-stats.vercel.app/api?username=jonathan-romain&show_icons=true&locale=en" alt="jonathan-romain" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-romain&" alt="jonathan-romain" /></p>
 
